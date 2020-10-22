@@ -1,11 +1,16 @@
-### Hi there, I'm Steven aka [Youtube] [<img align="left" alt="Visual Studio Code" width="26px" src="https://lh3.googleusercontent.com/z6Sl4j9zQ88oUKNy0G3PAMiVwy8DzQLh_ygyvBXv0zVNUZ_wQPN_n7EAR2By3dhoUpX7kTpaHjRPni1MHwKpaBJbpNqdEsHZsH4q" />]👋
+### Hi there, I'm Steven Knoop
 
-I am a Web Software Developer and a Technical SEO expert, I have plenty of experience with ecommerce platforms, reporting systems, data integration systems/syncs, APIs and other custom applications.
+I am a full-time Web Software Developer and a Technical SEO expert, I have plenty of experience with ecommerce platforms, reporting systems, data integration systems/syncs, APIs and other custom applications.
 
 ## I'm a Video Editor, Adventurer and Developer!!
 - 🌱 I’m currently learning Vue Native & TypeScript
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to surf and hike
+
+### Connect with me:
+[<img align="left" alt="Steven Knoop | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Steven Knoop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Steven Knoop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages and Tools:
 
@@ -35,5 +40,6 @@ I am a Web Software Developer and a Technical SEO expert, I have plenty of exper
 
 Paid Work or gigs
 
-
-[Youtube]: https://www.youtube.com/channel/UCHukdDWv9JC3YF4ByGMl_Aw
+[youtube]: https://www.youtube.com/channel/UCHukdDWv9JC3YF4ByGMl_Aw
+[instagram]: https://instagram.com/stevenknoop
+[linkedin]: https://www.linkedin.com/in/steven-knoop/
