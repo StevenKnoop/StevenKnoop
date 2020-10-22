@@ -7,10 +7,6 @@ I am a full-time Web Software Developer and a Technical SEO expert, I have plent
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to surf and hike
 
-### Connect with me:
-[<img align="left" alt="Steven Knoop | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Steven Knoop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Steven Knoop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages and Tools:
 
@@ -25,20 +21,13 @@ I am a full-time Web Software Developer and a Technical SEO expert, I have plent
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
-<br />
 
 ---
 
-
-📑 Certifications:
-
-
-⚙ Currently working on:
-
-
-💹 Looking to participate in:
-
-Paid Work or gigs
+### Connect with me:
+[<img align="left" alt="Steven Knoop | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Steven Knoop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Steven Knoop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [youtube]: https://www.youtube.com/channel/UCHukdDWv9JC3YF4ByGMl_Aw
 [instagram]: https://instagram.com/stevenknoop
